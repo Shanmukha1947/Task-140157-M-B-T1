@@ -1,0 +1,6 @@
+com\example\graphql\dataloader\demo\CompanyRepository.class
+com\example\graphql\dataloader\demo\UserRepository.class
+com\example\graphql\dataloader\demo\Company.class
+com\example\graphql\dataloader\demo\DataLoaderService.class
+com\example\graphql\dataloader\demo\User.class
+com\example\graphql\dataloader\demo\UserResolver.class
